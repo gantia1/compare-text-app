@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+    font-family: HelveticaRegular, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+
+.deleted {
+    background: red;
+    color: white;
+}
+
+.added {
+    background: green;
+    color: white;
+}
